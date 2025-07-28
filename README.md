@@ -1,5 +1,4 @@
-emergencyfund_calculator
-This Emergency Fund Calculator is a simple Python program that helps users calculate emergency fund needs based on monthly expenses, employment status, and number of dependents. It also includes a savings simulation feature to build an emergency fund, allowing users to conduct personalized financial planning.
+emergencyfund_calculator is a simple Python program that helps users calculate emergency fund needs based on monthly expenses, employment status, and number of dependents. It also includes a savings simulation feature to build an emergency fund, allowing users to conduct personalized financial planning.
 
 This is a simple, beginner-friendly Python program that helps users estimate how much emergency savings they should ideally have, based on:
 - Monthly expenses
